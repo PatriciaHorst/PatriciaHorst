@@ -5,10 +5,9 @@
 - ☕ Iniciante em JAVA
 - 📞 Contato: patricia_horst@estudante.sesisenai.org.br
 
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" alt="Java, JavaScript, HTML, CSS e Python">
-
-
 ![Cat](https://media1.tenor.com/m/bhdn5vVbNB8AAAAC/cat-meme-cat-meme-funny.gif)
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,python,tailwind" alt="Java, JavaScript, HTML, CSS e Python,Tailwind" width="400">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurJardimSouza/ArthurJardimSouza/output/pacman-contribution-graph-dark.svg">
