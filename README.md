@@ -6,7 +6,7 @@
 - 📞 Contato: patricia_horst@estudante.sesisenai.org.br
   
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" alt="Java, JavaScript, HTML, CSS e Python" width="500">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" alt="Java, JavaScript, HTML, CSS e Python">
 </div>
 
 ![Cat](https://media1.tenor.com/m/bhdn5vVbNB8AAAAC/cat-meme-cat-meme-funny.gif)
